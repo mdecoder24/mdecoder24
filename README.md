@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdecoder24&label=Profile%20views&color=0e75b6&style=flat" alt="mdecoder24" /> </p>
 
-- 🔭 I’m currently working on **Sign Language recognition system**
+- 🔭 I’m currently working on **Sign Language Recognition System**
 
 - 🌱 I’m currently learning **AIML**
 
