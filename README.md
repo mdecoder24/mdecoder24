@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **Statistics and Linear Algebra**
 
-- 💬 Ask me about **UI/UX and Web Development**
+- 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **krkushwant@gmail.com**
 
