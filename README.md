@@ -1,11 +1,5 @@
 # Hi 👋, I'm Kushwant KR
 
-### An experienced Javascript developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdecoder24&label=Profile views&color=0e75b6&style=flat" alt="mdecoder24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdecoder24" alt="mdecoder24" /></a> </p>
-
 - 🌱 I'm currently learning **Statistics and Linear Algebra**
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
@@ -16,7 +10,6 @@
 <p align="left">
 <a href="https://github.com/mdecoder24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdecoder24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kushwant-kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushwant-kr/" height="30" width="40" /></a>
-<a href="https://codechef.com/users/https://www.codechef.com/users/rudra0200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="https://www.codechef.com/users/rudra0200" height="30" width="40" /></a>
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/Rudra02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/Rudra02" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/Rudra0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Rudra0/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/rudra02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/rudra02" height="30" width="40" /></a>
