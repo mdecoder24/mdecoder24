@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/mdecoder24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdecoder24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kushwant-kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushwant-kr/" height="30" width="40" /></a>
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/Rudra02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/Rudra02" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/Rudra0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Rudra0/" height="30" width="40" /></a>
