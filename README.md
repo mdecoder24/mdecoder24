@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kushwant KR<br> How to reach me krkushwant@gmail.com
+Hi, I'm Kushwant KR<br> How to reach me krkushwant@gmail.com
 
 
 ## 🌐 Socials:
